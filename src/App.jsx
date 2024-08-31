@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Stack justifyContent="center">
-        <h1>Sentiment Cloud Generator </h1>
+        <h1>Sentiment Analyzer & Cloud Generator </h1>
         <Interactive />
       </Stack>
     </>

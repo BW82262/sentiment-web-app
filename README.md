@@ -16,7 +16,7 @@ To run the application locally, follow these steps:
 1. **Clone the repository**:
 
 ```
-git clone https://github.com/your-username/sentiment-cloud-generator.git cd sentiment-cloud-generator
+git clone https://github.com/BW82262/sentiment-web-app.git
 ```
 
 2. **Install dependencies**:
@@ -30,10 +30,10 @@ npm install
 3. **Start the development server**:
 
 ```
-npm start
+npm run dev
 ```
 
-The application should now be running at `http://localhost:3000`.
+The application should now be running at `http://localhost:5173`.
 
 ## Usage
 
